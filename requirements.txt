@@ -1,0 +1,10 @@
+librosa
+numpy
+pandas
+transformers
+datasets
+torchaudio
+pytorch
+hazm
+num2fawords
+jiwer
