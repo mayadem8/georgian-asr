@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Training junk
+new_model/checkpoint-*
+!new_model/checkpoint-2990/
+
+# Logs / runs
+new_model/runs/
+
+# OS
+.DS_Store
+Thumbs.db
